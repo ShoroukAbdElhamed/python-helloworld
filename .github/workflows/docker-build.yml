@@ -34,4 +34,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: udacity_python_helloworld/helloworld:latest
+          tags: shorouk/udacity_python_helloworld:latest
